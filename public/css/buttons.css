@@ -1,0 +1,20 @@
+.daily-use-button {
+  padding: 10px 5px;
+  background: #1976f2;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+}
+.daily-use-button:hover {
+  border: none;
+}
+.daily-use-button:active {
+  border: none;
+}
+.daily-use-button:focus {
+  border: none;
+}
+
+/*# sourceMappingURL=buttons.css.map */
